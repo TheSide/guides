@@ -41,7 +41,7 @@ decisions made for other layers.
 * Use Xcode automatic provisioning when possible.
 * Use UIKit with Storyboards and MVVM for creating UIs.
 * Use Dispatch and OperationQueue for concurrency.
-* Use VoiceOver and VoiceControl for accessibility.
+* Support VoiceOver and VoiceControl for accessibility.
 * Use Swift Package Manager for dependencies when possible.
 * Manually test on both iPhone and iPad to ensure the app is functional.
 * Work closely with designers on UI components
