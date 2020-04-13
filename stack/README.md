@@ -44,7 +44,7 @@ decisions made for other layers.
 * Support VoiceOver and VoiceControl for accessibility.
 * Use Swift Package Manager for dependencies when possible.
 * Manually test on both iPhone and iPad to ensure the app is functional.
-* Work closely with designers on UI components
+* Work closely with designers on UI components.
 * Prefer standard UIKit components to custom views.
 
 We recommend learning at least one of the following:
